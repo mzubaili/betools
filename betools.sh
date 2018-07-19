@@ -101,6 +101,7 @@ git clone https://github.com/shawarkhanethicalhacker/D-TECT
 cd D-TECT
 python2 d-tect.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 2 ] || [ $act = 2 ]
@@ -116,6 +117,7 @@ git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
 sh LITESPAM.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 3 ] || [ $act = 3 ]
@@ -130,6 +132,7 @@ pkg install python
 git clone https://github.com/cyweb/hammer
 cd hammer
 echo "selesai"
+clear
 fi
 
 if [ $act = 4 ] || [ $act = 4 ]
@@ -143,6 +146,7 @@ pkg install git
 pkg install clang
 git clone https://github.com/zanyarjamal/xerxes
 echo "selesai"
+clear
 fi
 
 if [ $act = 5 ] || [ $act = 5 ]
@@ -157,6 +161,7 @@ pkg install tor
 pkg install python2
 git clone https://github.com/dotfighter/torshammer.git
 echo "selesai"
+clear
 fi
 
 if [ $act = 6 ] || [ $act = 6 ]
@@ -171,6 +176,7 @@ git clone https://github.com/4L13199/LITEDDOS
 cd LITEDDOS
 python2 LITEDDOS.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 7 ] || [ $act = 7 ]
@@ -183,6 +189,7 @@ pkg install git
 git clone 
 https://gitbub.com/BagazMukti/Termux-Styling-Shell-Script
 echo "selesai"
+clear
 fi
 
 if [ $act = 8 ] || [ $act = 8 ]
@@ -197,6 +204,7 @@ git clone https://github.com/Senitopeng/BotFbBangDjon.git
 cd BotFbBangDjon
 python2 bangdjon.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 9 ] || [ $act = 9 ]
@@ -212,6 +220,7 @@ pkg install termcolor
 pkg install ruby
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 echo "selesai"
+clear
 fi
 
 if [ $act = 10 ] || = $act = 10 ]
@@ -226,6 +235,7 @@ cd weeman
 chmod 777 weeman.py
 python2 weeman.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 11 ] || [ $act = 11 ]
@@ -240,6 +250,7 @@ cd Hunner
 chmod 777 hunner.py
 python hunner.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 12 ] || [ $act = 12 ]
@@ -254,6 +265,7 @@ git clone https://github.com/sqlmapproject/sqlmap
 cd sqlmap
 python2 sqlmap.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 13 ] || [ $act = 13 ]
@@ -269,6 +281,7 @@ cd ReconDog
 chmod +x dog.py
 python2 dog.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 14 ] || [ $act = 14 ]
@@ -283,6 +296,7 @@ cd admin_penal
 chmod +x admin_panel_finder.py
 python2 admin_panel_finder.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 15 ] || [ $act = 15 ]
@@ -293,6 +307,7 @@ echo "menginstall..."
 sleep 1
 pkg install cmatrix
 echo "selesai"
+clear
 fi
 
 if [ $act = 16 ] || [ $act = 16 ]
@@ -306,6 +321,7 @@ git clone https://github.com/UltimateHackers/Hash-Buster
 cd Hash-Buster
 python2 hash.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 17 ] || [ $act = 17 ]
@@ -321,6 +337,7 @@ cd termux-ubuntu
 chmod ubuntu.sh
 sh ubuntu.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 18 ] || [ $act = 18 ]
@@ -334,6 +351,7 @@ cd gcospam
 sh install.sh
 sh gco.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 19 ] || [ $act = 19 ]
@@ -349,6 +367,7 @@ cd Spammer-Grab
 chmod +x spammer.py
 python2 spammer.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 20 ] || [ $act = 20 ]
@@ -363,6 +382,7 @@ cd Lazymux
 chmod +x lazymux.py
 python2 lazymux.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 21 ] || [ $act = 21 ]
@@ -391,6 +411,7 @@ https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
 chmod +x metasploit.sh
 sh metasploit.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 23 ] || = $act = 23 ]
@@ -405,6 +426,7 @@ git clone https://github.com/pirmanxs/mbf
 cd mbf
 python2 MBF.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 24 ] || [ $act = 24 ]
@@ -415,6 +437,7 @@ echo "menginstall..."
 sleep 1
 pkg install nmap
 echo "selesai"
+clear
 fi
 
 if [ $act = 25 ] || [ $act = 25 ]
@@ -428,6 +451,7 @@ git clone https://github.com/Xi4u7/A-Rat.git
 cd A-Rat
 python2 A-Rat.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 26 ] || [ $act = 26 ]
@@ -442,6 +466,7 @@ git clone https://github.com/m4llok/Infoga
 cd Infoga
 ls
 echo "selesai"
+clear
 fi
 
 if [ $act = 27 ] || [ $act = 27 ]
@@ -454,6 +479,7 @@ pkg install nmap
 pkg install curl
 curl -O http://override.waper.co/files/androzenmap.txt
 echo "selesai"
+clear
 fi
 
 if [ $act = 28 ] || [ $act = 28 ]
@@ -468,6 +494,7 @@ git clone https://github.com/Xi4u7/wtf
 cd wtf
 ls
 echo "selesai"
+clear
 fi
 
 if [ $act = 29 ] || [ $act = 29 ]
@@ -481,6 +508,7 @@ git clone https://github.com/Cvar1984/Easymap
 cd Easymap
 sh install.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 30 ] || [ $act = 30 ]
@@ -493,6 +521,7 @@ pkg install curl
 curl -k -O 
 https://gist.github.com/Gameye98/92035588bd0228df6fb7fa77a5f26bc2/raw/f8e73cd3d9f2a72bd536087bb6ba7bc8baef7d1d/xd3v.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 31 ] || [ $act = 31 ]
@@ -506,6 +535,7 @@ pip2 install requests
 git clone https://github.com/Gameye98/santet-online
 cd santet-online
 echo "selesai"
+clear
 fi
 
 if [ $act = 32 ] || [ $act = 32 ]
@@ -519,6 +549,7 @@ git clone https://github.com/Manisso/Crips
 cd Crips
 ls
 echo "selesai"
+clear
 fi
 
 if [ $act = 33 ] || $act = 33 ]
@@ -533,6 +564,7 @@ git clone https://github.com/AeonDave/sir.git
 cd sir
 ls
 echo "selesai"
+clear
 fi
 
 if [ $act = 34 ] || [ $act = 34 ]
@@ -547,6 +579,7 @@ git clone https://github.com/UndeadSec/EvilURL
 cd EvilURL
 ls
 echo "selesai"
+clear
 fi
 
 if [ $act = 35 ] || [ $act = 35 ]
@@ -560,6 +593,7 @@ git clone https://github.com/stamparm/DSSS
 cd DSSS
 ls
 echo "selesai"
+clear
 fi
 
 if [ $act = 36 ] || [ $act = 36 ]
@@ -574,6 +608,7 @@ git clone https://github.com/reverse-shell/routersploit
 cd routersploit
 pip2 install -r requirements.txt termux-fix-shebang rsf.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 37 ] || [ $act = 37 ]
@@ -586,6 +621,7 @@ pkg install python2
 git clone https://github.com/gkbrk/slowloris
 cd slowloris
 echo "selesai"
+clear
 fi
 
 if [ $act = 38 ] || [ $act = 38 ]
@@ -598,6 +634,7 @@ pkg install python2
 git clone https://github.com/jseidl/GoldenEye
 cd GoldenEye
 echo "selesai"
+clear
 fi
 
 if [ $act = 39 ] || [ $act = 39 ]
@@ -610,6 +647,7 @@ pkg install python2
 git clone https://github.com/Hydra7/Planetwork-DDOS
 cd Planetwork-DDOS
 echo "selesai"
+clear
 fi
 
 if [ $act = 40 ] || [ $act = 40 ]
@@ -623,6 +661,7 @@ pkg install python2
 git clone https://github.com/Gameye98/Black-Hydra
 cd Black-Hydra
 echo "selesai"
+clear
 fi
 
 if [ $act = 41 ] || [ $act = 41 ]
@@ -635,6 +674,7 @@ pkg install python2
 git clone https://github.com/Mebus/cupp
 cd cupp
 echo "selesai"
+clear
 fi
 
 if [ $act = 42 ] || [ $act = 42 ]
@@ -647,6 +687,7 @@ pkg install python2
 git clone https://github.com/Gameye98/1337Hash
 cd 1337Hash
 echo "selesai"
+clear
 fi
 
 if [ $act = 43 ] || [ $act = 43 ]
@@ -658,6 +699,7 @@ sleep 1
 pkg install irssi
 irssi
 echo "selesai"
+clear
 fi
 
 if [ $act = 44 ] || [ $act = 44 ]
@@ -672,6 +714,7 @@ git clone https://github.com/avramit/instahack
 cd instahack
 python2 hackinsta.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 45 ] || [ $act = 45 ]
@@ -682,6 +725,7 @@ echo "menginstall..."
 sleep 1
 git clone https://github.com/geovedi/indonesian-wordlist
 echo "selesai"
+clear
 fi
 
 if [ $act = 46 ] || [ $act = 46 ]
@@ -696,6 +740,7 @@ mkdir ~/webdav
 curl -k -O http://override.waper.co/files/webdav.txt;mv 
 webdav.txt ~/webdav/webdav.py
 echo "selesai"
+clear
 fi
 
 if [ $act = 47 ] || [ $act = 47 ]
@@ -708,6 +753,7 @@ pkg install python2
 git clone git clone https://github.com/m4ll0k/wpsploit
 cd wpsploit
 echo "selesai"
+clear
 fi
 
 if [ $act = 48 ] || [ $act = 48 ]
@@ -721,6 +767,7 @@ pip2 install scapy
 git clone https://github.com/The404Hacking/websploit
 cd websploit
 echo "selesai"
+clear
 fi
 
 if [ $act = 49 ] || [ $act = 49 ]
@@ -733,6 +780,8 @@ pkg install python2
 pip2 install urllib2
 git clone https://github.com/Anb3rSecID/sqlokmed
 cd sqlokmed
+echo "selesai"
+clear
 fi
 
 if [ $act = 50 ] || [ $act = 50 ]
@@ -744,6 +793,8 @@ sleep 1
 pkg install php
 git clone https://github.com/Cvar1984/zones
 cd zones
+echo "selesai"
+clear
 fi
 
 if [ $act = 51 ] || [ $act = 51 ]
@@ -756,6 +807,7 @@ pkg install python2
 git clone https://github.com/commixproject/commix
 cd commix
 echo "selesai"
+selesai
 fi
 
 if [ $act = 52 ] || [ $act = 52 ]
@@ -767,6 +819,7 @@ sleep 1
 git clone https://github.com/Screetsec/Brutal
 cd Brutal
 echo "selesai"
+clear
 fi
 
 if [ $act = 53 ] || [ $act = 53 ]
@@ -780,6 +833,7 @@ pip2 install validate_email pyDNS
 git clone https://github.com/4w4k3/KnockMail
 cd KnockMail
 echo "selesai"
+clear
 fi
 
 if [ $act = 54 ] || [ $act = 54 ]
@@ -791,6 +845,7 @@ sleep 1
 apt install git python2 && pip2 install argparse requests
 git clone https://github.com/p4kl0nc4t/Spammer-Email
 echo "selesai"
+clear
 fi
 
 if [ $act = 55 ] || [ $act = 55 ]
@@ -803,6 +858,7 @@ pkg install php
 git clone https://github.com/Cvar1984/Hac
 cd Hac
 echo "selesai"
+clear
 fi
 
 if [ $act = 56 ] || [ $act = 56 ]
@@ -815,6 +871,7 @@ pkg install python2
 git clone https://github.com/LOoLzeC/SH33LL
 cd SH33LL
 echo "selesai"
+clear
 fi
 
 if [ $act = 57 ] || [ $act = 57 ]
@@ -827,6 +884,7 @@ pkg install php
 git clone https://github.com/Cvar1984/SpiderBot
 cd Spider-Bot
 echo "selesai"
+clear
 fi
 
 if [ $act = 58 ] || [ $act = 58 ]
@@ -837,6 +895,7 @@ echo "menginstall..."
 sleep 1
 git clone https://github.com/Hax4us/Nethunter-In-Termux
 echo "selesai"
+clear
 fi
 
 if [ $act = 59 ] || [ $act = 59 ]
@@ -849,6 +908,7 @@ pkg install wget
 wget 
 https://raw.githubusercontent.com/nmilosev/termux-fedora/master/termux-fedora.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 60 ] || [ $act = 60 ]
@@ -861,6 +921,7 @@ apt install python2 git && pip2 install optparse passlib
 git clone https://github.com/jothatron/blackbox
 cd blackbox
 echo "selesai"
+clear
 fi
 
 if [ $act = 61 ] || [ $act = 61 ]
@@ -873,6 +934,7 @@ pkg install php
 git clone https://github.com/Cvar1984/Ecode
 cd Ecode
 echo "selesai"
+clear
 fi
 
 if [ $act = 62 ] || [ $act = 62 ]
@@ -886,6 +948,7 @@ pip2 install requests
 git clone https://github.com/Anb3rSecID/Hashzer
 cd Hashzer
 echo "selesai"
+clear
 fi
 
 if [ $act = 63 ] || [ $act = 63 ]
@@ -898,6 +961,7 @@ pkg install php
 git clone https://github.com/Cvar1984/PassGen
 cd PassGen
 echo "selesai"
+clear
 fi
 
 if [ $act = 64 ] || [ $act = 64 ]
@@ -910,6 +974,7 @@ pkg install php
 git clone https://github.com/Gameye98/OWScan
 cd OWScan
 echo "selesai"
+clear
 fi
 
 if [ $act = 65 ] || [ $act = 65 ]
@@ -922,6 +987,7 @@ apt install git python2 && pip2 install requests
 git clone https://github.com/Gameye98/SpazSMS
 cd SpazSMS
 echo "selesai"
+clear
 fi
 
 if [ $act = 66 ] || [ $act = 66 ]
@@ -934,6 +1000,7 @@ apt install git python2 && pip2 install urllib2
 git clone https://github.com/ciku370/ko-dork
 cd ko-dork
 echo "selesai"
+clear
 fi
 
 if [ $act = 67 ] || [ $act = 67 ]
@@ -946,6 +1013,7 @@ pkg install python2
 git clone https://github.com/Smaash/snitch
 cd snitch
 echo "selesai"
+clear
 fi
 
 if [ $act = 68] || [ $act = 68 ]
@@ -959,6 +1027,7 @@ pip2 install requests
 git clone https://github.com/ciku370/OSIF
 cd OSIF
 echo "selesai"
+clear
 fi
 
 if [ $act = 69 ] || [ $act = 69 ]
@@ -970,6 +1039,7 @@ sleep 1
 pkg install mc
 mc
 echo "selesai"
+clear
 fi
 
 if [ $act = 70 ] || [ $act = 70 ]
@@ -982,6 +1052,7 @@ https://github.com/esc0rtd3w/wifi-hacker
 cd wifi-hacker
 chmod +x wifi-hacker.sh
 echo "selesai"
+clear
 fi
 
 if [ $act = 99 ] || [ $act = 99 ]
